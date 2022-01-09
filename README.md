@@ -1,6 +1,8 @@
 ## Description
 This plugin leverages the great Dataview plugin capabilities to select multiple values returned by a query and include them in your note
 
+You can beta-test it with BRAT: `mdelobelle/obsidian-multiselect/`
+
 for example
 - select some [[<ingredient>]] from your '#Ingredient' notes as required ingredients for a recipe
 - select some of your [[<teamate>]] from your '#Staff' notes as participants for a meeting note
